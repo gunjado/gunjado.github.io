@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gunjado.github.io/sitemap/sitemap.txt
